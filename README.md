@@ -23,6 +23,21 @@ ___
 |[갓등님 블로그](https://garden1500.tistory.com/11)|여기서 2,3개씩 진행|
 |||
 
+#### CS 정리 참고
+|링크|비고|
+|--|--|
+|[gyoogle님 블로그](https://gyoogle.dev/blog/)|매우 좋은 사이트|
+
+
+#### 취업관련 참고
+|링크|비고|
+|--|--|
+|[주니어 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)|최근 채용정보, 기타 취업 팁|
+|||
+
+
+
+
  ___
 
 
