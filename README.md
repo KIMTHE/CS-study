@@ -66,10 +66,19 @@ ___
         <tr>
             <td rowspan=2>2022.01.09</td>
             <td>OS 스레드 , 프로세스 차이(멀티스레드와 멀티프로세스차이, PCB)</td>
-            <td></td>
+            <td><a href="https://potent-stop-a1b.notion.site/OS-PCB-65cc30f98bc84e438fa4c7f4da80e9c1">심규렬의 주제3 정리</a></td>
         </tr>
         <tr>
             <td>DB 트랙잭션과 트랙잭션 특성 4가지</td>
+            <td><a href="https://potent-stop-a1b.notion.site/DB-4-64555c16ad7b459ca873fd4bfedd2050">심규렬의 주제4 정리</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>2022.01.16</td>
+            <td>OS 데드락, 데드락 조건 4가지, 동기화( 뮤텍스, 세마포어, 모니터, 스핀락, 어토믹 설명)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>자바 관련 지식 (JVM, GC/ JAVA 객체지향, 솔리드, 프로그램 실행의 일련과정)</td>
             <td></td>
         </tr>
     </tbody>
