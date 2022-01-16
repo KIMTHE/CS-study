@@ -57,28 +57,38 @@ ___
         <tr>
             <td rowspan=2>2022.01.02</td>
             <td>HTTP, HTTPS(TLS(SSL))/HTTP 1.1 2.0 3.0/ HTTP RESTFUL / HTTP 응답코드</td>
-            <td><a href="https://potent-stop-a1b.notion.site/1-HTTP-HTTPS-TLS-SSL-HTTP-1-1-2-0-3-0-HTTP-RESTFUL-HTTP-2ec5e6b525da45b98b163956ac8c276e">심규렬의 주제1 정리</a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/1-HTTP-HTTPS-TLS-SSL-HTTP-1-1-2-0-3-0-HTTP-RESTFUL-HTTP-2ec5e6b525da45b98b163956ac8c276e">심규렬의 HTML 정리</a></td>
         </tr>
         <tr>
             <td>웹브라우저에 google.com 치면 일어나는 과정</td>
-            <td><a href="https://potent-stop-a1b.notion.site/2-google-com-f0779ac41e624a17bc3cd7e22cc8bc5a">심규렬의 주제2 정리</a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/2-google-com-f0779ac41e624a17bc3cd7e22cc8bc5a">심규렬의 google.com과정 정리</a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.01.09</td>
             <td>OS 스레드 , 프로세스 차이(멀티스레드와 멀티프로세스차이, PCB)</td>
-            <td><a href="https://potent-stop-a1b.notion.site/OS-PCB-65cc30f98bc84e438fa4c7f4da80e9c1">심규렬의 주제3 정리</a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/OS-PCB-65cc30f98bc84e438fa4c7f4da80e9c1">심규렬의 스레드vs프로세스 정리</a></td>
         </tr>
         <tr>
             <td>DB 트랙잭션과 트랙잭션 특성 4가지</td>
-            <td><a href="https://potent-stop-a1b.notion.site/DB-4-64555c16ad7b459ca873fd4bfedd2050">심규렬의 주제4 정리</a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/DB-4-64555c16ad7b459ca873fd4bfedd2050">심규렬의 DB트랜젝선 정리</a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.01.16</td>
             <td>OS 데드락, 데드락 조건 4가지, 동기화( 뮤텍스, 세마포어, 모니터, 스핀락, 어토믹 설명)</td>
-            <td></td>
+            <td><a href="https://potent-stop-a1b.notion.site/OS-4-8ec08b1bb42a486b8c5d5182767bda32">심규렬의 데드락 정리</a></br>
+ <a href="https://potent-stop-a1b.notion.site/36413bd8988a47eab0e51a9a9585ea5f">심규렬의 동기화 정리</a></td>
         </tr>
         <tr>
             <td>자바 관련 지식 (JVM, GC/ JAVA 객체지향, 솔리드, 프로그램 실행의 일련과정)</td>
+            <td><a href="https://potent-stop-a1b.notion.site/JVM-GC-JAVA-73ed52e37f964b98b2bc962155ce5130">심규렬의 자바관련 정리</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>2022.01.30</td>
+            <td>TCP vs UDP (TCP, UDP 특성)</td>
+            <td></a></td>
+        </tr>
+        <tr>
+            <td>세그멘테이션, 페이징 (내부단편화 ,외부단편화)</td>
             <td></td>
         </tr>
     </tbody>
