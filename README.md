@@ -57,7 +57,7 @@ ___
         <tr>
             <td rowspan=2>2022.01.02</td>
             <td>HTTP, HTTPS(TLS(SSL))/HTTP 1.1 2.0 3.0/ HTTP RESTFUL / HTTP 응답코드</td>
-            <td><a href="https://potent-stop-a1b.notion.site/1-HTTP-HTTPS-TLS-SSL-HTTP-1-1-2-0-3-0-HTTP-RESTFUL-HTTP-2ec5e6b525da45b98b163956ac8c276e">심규렬의 HTML 정리</a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/1-HTTP-HTTPS-TLS-SSL-HTTP-1-1-2-0-3-0-HTTP-RESTFUL-HTTP-2ec5e6b525da45b98b163956ac8c276e">심규렬의 HTTP 정리</a></td>
         </tr>
         <tr>
             <td>웹브라우저에 google.com 치면 일어나는 과정</td>
@@ -69,7 +69,7 @@ ___
             <td><a href="https://potent-stop-a1b.notion.site/OS-PCB-65cc30f98bc84e438fa4c7f4da80e9c1">심규렬의 스레드vs프로세스 정리</a></td>
         </tr>
         <tr>
-            <td>DB 트랙잭션과 트랙잭션 특성 4가지</td>
+            <td>DB 트랜잭션과 트랜잭션 특성 4가지</td>
             <td><a href="https://potent-stop-a1b.notion.site/DB-4-64555c16ad7b459ca873fd4bfedd2050">심규렬의 DB트랜젝선 정리</a></td>
         </tr>
         <tr>
@@ -98,6 +98,33 @@ ___
         </tr>
         <tr>
             <td>메모리구조/ 스택/ 힙/ 데이터/ 코드 영역 - 선언하면 어느쪽에 저장되는지 설명</td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>2022.02.13</td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>2022.02.20</td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>2022.02.27</td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td></td>
             <td><a href=""></a></td>
         </tr>
     </tbody>
