@@ -92,10 +92,6 @@ ___
             <td><a href="https://potent-stop-a1b.notion.site/7305b086c489458e90a46087058517ea">심규렬의 페이징,세그멘테이션 정리</a></td>
         </tr>
         <tr>
-            <td>자바 관련 지식 (JVM, GC/ JAVA 객체지향, 솔리드, 프로그램 실행의 일련과정)</td>
-            <td><a href="https://potent-stop-a1b.notion.site/JVM-GC-JAVA-73ed52e37f964b98b2bc962155ce5130">심규렬의 자바관련 정리</a></td>
-        </tr>
-        <tr>
             <td rowspan=2>2022.02.06</td>
             <td>DB 인덱스 , 인덱스 거는이유, 인덱스에 왜 해쉬 보다 B Tree를 쓰는지?</td>
             <td><a href=""></a></td>
