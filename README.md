@@ -94,11 +94,11 @@ ___
         <tr>
             <td rowspan=2>2022.02.06</td>
             <td>DB 인덱스 , 인덱스 거는이유, 인덱스에 왜 해쉬 보다 B Tree를 쓰는지?</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/DB-B-Tree-d448ea26be7c48e1984bffefafd25d7f">심규렬의 DB인덱스 정리</a></td>
         </tr>
         <tr>
             <td>메모리구조/ 스택/ 힙/ 데이터/ 코드 영역 - 선언하면 어느쪽에 저장되는지 설명</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/1ce8477b2700436c8176042f81cad38c">심규렬의 메모리구조 정리</a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.02.13</td>
