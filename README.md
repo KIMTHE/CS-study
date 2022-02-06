@@ -102,29 +102,29 @@ ___
         </tr>
         <tr>
             <td rowspan=2>2022.02.13</td>
-            <td></td>
+            <td>(자료구조 질문 )맵 vs 해쉬맵 / 리스트 vs 배열(어레이) /스택 vs큐 차이</td>
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td></td>
+            <td>정렬종류 , 퀵소트 설명 ( 추가적인 손코딩 ) </td>
             <td><a href=""></a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.02.20</td>
-            <td></td>
+            <td>OSI 계층 말하기(각각 알려진 유명 프로토콜)</td>
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td></td>
+            <td>DB 정규화, 비정규화(역정규화)</td>
             <td><a href=""></a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.02.27</td>
-            <td></td>
+            <td>DB 트랜잭션 격리수준</td>
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td></td>
+            <td>?</td>
             <td><a href=""></a></td>
         </tr>
     </tbody>
