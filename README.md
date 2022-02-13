@@ -103,11 +103,11 @@ ___
         <tr>
             <td rowspan=2>2022.02.13</td>
             <td>(자료구조 질문 )맵 vs 해쉬맵 / 리스트 vs 배열(어레이) /스택 vs큐 차이</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/vs-vs-vs-30ab1f4819e84095bf86cfdc91dbf79c">규렬의 자료구조 정리</a></td>
         </tr>
         <tr>
             <td>정렬종류 , 퀵소트 설명 ( 추가적인 손코딩 ) </td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/45de2c85fad64fce8dc0aca13a5863b9">규렬의 정렬알고리즘 정리</a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.02.20</td>
