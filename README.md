@@ -119,12 +119,20 @@ ___
             <td><a href="https://potent-stop-a1b.notion.site/DB-53406fef33ad42c7805a908ca9425683">규렬의 db정규화 정리</a></td>
         </tr>
         <tr>
-            <td rowspan=2>2022.02.27</td>
+            <td rowspan=4>2022.02.27</td>
             <td>DB 트랜잭션 격리수준</td>
             <td><a href=""></a></td>
         </tr>
         <tr>
-            <td>?</td>
+            <td>tcp/udp의 차이점을 설명하라</td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>OS란 무엇이며, 핵심 기능은?</td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>Primary Key, Foreign Key, ER 모델이란?</td>
             <td><a href=""></a></td>
         </tr>
     </tbody>
