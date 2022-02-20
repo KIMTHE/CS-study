@@ -112,11 +112,11 @@ ___
         <tr>
             <td rowspan=2>2022.02.20</td>
             <td>OSI 계층 말하기(각각 알려진 유명 프로토콜)</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/OSI-49a4cbaa10274757a2d0b62cbba4fbf7">규렬의 osi계층 정리</a></td>
         </tr>
         <tr>
             <td>DB 정규화, 비정규화(역정규화)</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/DB-53406fef33ad42c7805a908ca9425683">규렬의 db정규화 정리</a></td>
         </tr>
         <tr>
             <td rowspan=2>2022.02.27</td>
