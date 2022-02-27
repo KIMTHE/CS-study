@@ -45,6 +45,9 @@ ___
 
 ## **<기록>**
 
+<details>
+<summary>2021 겨울방학 기록</summary>
+
 <table>
     <thead>
         <tr>
@@ -119,22 +122,57 @@ ___
             <td><a href="https://potent-stop-a1b.notion.site/DB-53406fef33ad42c7805a908ca9425683">규렬의 db정규화 정리</a></td>
         </tr>
         <tr>
-            <td rowspan=4>2022.02.27</td>
+            <td rowspan=1>2022.02.27</td>
             <td>DB 트랜잭션 격리수준</td>
-            <td><a href=""></a></td>
-        </tr>
-        <tr>
-            <td>tcp/udp의 차이점을 설명하라</td>
-            <td><a href=""></a></td>
-        </tr>
-        <tr>
-            <td>OS란 무엇이며, 핵심 기능은?</td>
-            <td><a href=""></a></td>
-        </tr>
-        <tr>
-            <td>Primary Key, Foreign Key, ER 모델이란?</td>
-            <td><a href=""></a></td>
+            <td><a href="https://potent-stop-a1b.notion.site/DB-7e359ae6261b4f6483e6883d418e0f4b">규렬의 db격리수준 정리</a></td>
         </tr>
     </tbody>
 </table>
+
+</details>
+<details>
+<summary>2022 1학기 기록</summary>
+<table>
+    <thead>
+        <tr>
+            <th>날짜</th>
+            <th>주제</th>
+            <th>분야</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=3>2022.02.27</td>
+            <td>tcp/udp의 차이점을 설명하라</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>OS란 무엇이며, 핵심 기능은?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>Primary Key, Foreign Key, ER 모델이란?</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.03.13</td>
+            <td>quick sort가 일어나는 과정을 설명해주세요</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>자바 컴파일 과정을 설명하라</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>sw공학이란? 필요한 이유? 좋은 설계란? </td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>흐름제어기법중 슬라이딩 윈도우 방식에대해 설명하라</td>
+            <td>네트워크</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
  
