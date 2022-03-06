@@ -171,6 +171,31 @@ ___
             <td>흐름제어기법중 슬라이딩 윈도우 방식에대해 설명하라</td>
             <td>네트워크</td>
         </tr>
+        <tr>
+            <td rowspan=6>2022.03.13</td>
+            <td>브라우저에 네이버홈페이지 url을 입력했을때 일어나는 과정을 설명해라</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>부팅이 되는 과정을 설명하시오</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>정규화에 대해서 말해보시오, 정규화의 목적은? </td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>insertion sort가 일어나는 과정을 설명해주세요</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>String, StringBuffer, StringBuilder의 차이점에 대해 설명하라 </td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>형상관리란?</td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
     </tbody>
 </table>
 </details>
