@@ -197,7 +197,7 @@ ___
             <td>스프트웨어엔지니어링</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.03.19</td>
+            <td rowspan=4>2022.03.20</td>
             <td>프로세스의 5가지 상태에 대해 설명하시오</td>
             <td>운영체제</td>
         </tr>
@@ -212,6 +212,23 @@ ___
         <tr>
             <td>OOP의 4가지 특징</td>
             <td>자바</td>
+        </tr>
+     <tr>
+            <td rowspan=4>2022.03.25</td>
+            <td>Singleton, Adapter, Template패턴은 어떤 것인가? 왜 사용하는지? 코드 구현해보시오</td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>OSI 7계층에대해 설명하여라(TCP/IP 4계층)</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>메모리 계층 구조를 설명하시오 </td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>조인이 무엇인지?(inner, left, right, outer)</td>
+            <td>데이터베이스</td>
         </tr>
     </tbody>
 </table>
