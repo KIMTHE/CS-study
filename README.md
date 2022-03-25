@@ -2,7 +2,7 @@
 
 ### `🤣 개그콘서트 보다 재밌는 CS 스터디!!`
 
-- 매주 토요일 21:30
+- 매주 주말 
 
 - 서로 질문과 답변 번갈아 가면서, 꼬리 질문 활용하기
 
@@ -213,7 +213,7 @@ ___
             <td>OOP의 4가지 특징</td>
             <td>자바</td>
         </tr>
-     <tr>
+       <tr>
             <td rowspan=4>2022.03.25</td>
             <td>Singleton, Adapter, Template패턴은 어떤 것인가? 왜 사용하는지? 코드 구현해보시오</td>
             <td>스프트웨어엔지니어링</td>
@@ -229,6 +229,23 @@ ___
         <tr>
             <td>조인이 무엇인지?(inner, left, right, outer)</td>
             <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.04.02</td>
+            <td>이분 탐색 알고리즘에 대해 설명해주세요</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>오버로딩과 오버라이딩의 차이</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>코드 결합도와 응집도란? </td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>Restful API란?</td>
+            <td>네트워크</td>
         </tr>
     </tbody>
 </table>
