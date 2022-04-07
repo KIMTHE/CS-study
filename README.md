@@ -40,6 +40,7 @@ ___
 |[주니어 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)|최근 채용정보, 기타 취업 팁|
 
 벌레의 탄생
+벌레의 반란
  ___
 
 ## **<기록>**
