@@ -39,12 +39,9 @@ ___
 |--|--|
 |[주니어 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)|최근 채용정보, 기타 취업 팁|
 
-벌레의 비행
+벌레의 탄생
  ___
-벌레의 비행 2
-벌레의 구애
-벌벌
-벌버러버럽러러
+
 ## **<기록>**
 
 <details>
