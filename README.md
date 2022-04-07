@@ -230,7 +230,7 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.04.02</td>
+            <td rowspan=4>2022.04.03</td>
             <td>이분 탐색 알고리즘에 대해 설명해주세요</td>
             <td>알고리즘</td>
         </tr>
@@ -245,6 +245,23 @@ ___
         <tr>
             <td>Restful API란?</td>
             <td>네트워크</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.04.09</td>
+            <td>캐시와 버퍼의 차이점은?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>NoSQL이란? 기존RDBMS와 다른점은?</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>알고있는 정렬 알고리즘과 그 중 좋아하는 정렬알고리즘 설명해주세요</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>HashMap과 TreeMap의 차이</td>
+            <td>자바</td>
         </tr>
     </tbody>
 </table>
