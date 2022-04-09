@@ -264,6 +264,40 @@ ___
             <td>HashMap과 TreeMap의 차이</td>
             <td>자바</td>
         </tr>
+        <tr>
+            <td rowspan=4>2022.04.16</td>
+            <td>블랙박스/화이트박스 테스트란?</td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>3-way handshaking이란?</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>세마포어와 뮤텍스란? 차이점은 무엇인가?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>트랜잭션이란?(+트랜잭션의 성질)</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.04.30</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 </details>
