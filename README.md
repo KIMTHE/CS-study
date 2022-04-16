@@ -282,21 +282,21 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.04.30</td>
-            <td></td>
-            <td></td>
+            <td rowspan=4>2022.04.24</td>
+            <td>두개의 stack을 이용해 queue를 구현하라</td>
+            <td>알고리즘</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>GC에 대해 설명하라</td>
+            <td>자바</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>Agile 방법론이 무엇인지 설명해주세요</td>
+            <td>스프트웨어엔지니어링</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
+            <td>HTTP와 HTTPS의 차이는?</td>
+            <td>네트워크</td>
         </tr>
     </tbody>
 </table>
