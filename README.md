@@ -282,7 +282,7 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.04.24</td>
+            <td rowspan=4>2022.04.30</td>
             <td>두개의 stack을 이용해 queue를 구현하라</td>
             <td>알고리즘</td>
         </tr>
@@ -297,6 +297,23 @@ ___
         <tr>
             <td>HTTP와 HTTPS의 차이는?</td>
             <td>네트워크</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.05.07</td>
+            <td>메모리 단편화란? / 페이징과 세그멘테이션?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>2단계 락킹이란?</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>LinkedList의 원소를 역순으로 출력하는 방법은?</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>자바의 메모리구조는?</td>
+            <td>자바</td>
         </tr>
     </tbody>
 </table>
