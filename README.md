@@ -332,6 +332,23 @@ ___
             <td>공유락, 배타락이란?</td>
             <td>데이터베이스</td>
         </tr>
+        <tr>
+            <td rowspan=4>2022.06.04</td>
+            <td>tree와 graph를 설명하라</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>동등성(equals)과 동일성(==)에 대해 설명하라</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>CVS, SVN, GIT에 대해서 아는대로 설명해 보시오.</td>
+            <td>스프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>TCP/IP 프로토콜 스택 4계층으로 구분짓고 설명하라</td>
+            <td>네트워크 </td>
+        </tr>
     </tbody>
 </table>
 </details>
