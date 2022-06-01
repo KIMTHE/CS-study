@@ -22,8 +22,9 @@ ___
 |--|--|
 |[갓등님 블로그](https://garden1500.tistory.com/11)|여기서 2,3개씩 진행|
 |[cs면접 질문정리](https://github.com/devham76/tech-interview-study)|그다음 2,3개 진행|
+|[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야 및 인성면접 질문도 정리가 되어있다.|
 |[간단한 질문정리](https://velog.io/@xoqja055/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)|매우 많은 질문과 간단하게 답변이 정리되어있다.|
-|[백엔드 질문정리](https://github.com/ksundong/backend-interview-question)|백엔드 관련 질문 정리|
+
 
 #### CS 정리 참고
 |링크|비고|
@@ -31,6 +32,7 @@ ___
 |[gyoogle님 블로그](https://gyoogle.dev/blog/)|매우 좋은 사이트 1순위|
 |[기술면접 개념정리](https://github.com/WeareSoft/tech-interview)|cs정리 2순위, 내용-설명은 더많음|
 |[woovictory님 정리](https://github.com/WooVictory/Ready-For-Tech-Interview)|코틀린,안드로이드 관련 정리,질문들 참고|
+|[백엔드 질문정리](https://github.com/ksundong/backend-interview-question)|백엔드 관련 질문 정리|
 
 
 
