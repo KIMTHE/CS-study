@@ -39,7 +39,7 @@ ___
 |링크|비고|
 |--|--|
 |[주니어 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)|최근 채용정보, 기타 취업 팁|
-
+|[손코딩, 라이브코테 면접 관련](https://garden1500.tistory.com/6)|갓등님 블로그|
 
  ___
 
