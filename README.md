@@ -367,6 +367,23 @@ ___
             <td>제네릭과 와일드카드에 대해 설명하라 </td>
             <td>자바 </td>
         </tr>
+        <tr>
+            <td rowspan=4>2022.06.25</td>
+            <td>형상 관리를 잘못하면 어떤 문제가 발생하나요?</td>
+            <td>소프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>Session과 Cookie 차이는?</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>PCB란?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>역정규화를 하는 이유는 무엇인가?</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 </details>
