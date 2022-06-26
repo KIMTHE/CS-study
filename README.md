@@ -368,7 +368,7 @@ ___
             <td>자바 </td>
         </tr>
         <tr>
-            <td rowspan=4>2022.06.25</td>
+            <td rowspan=4>2022.06.26</td>
             <td>형상 관리를 잘못하면 어떤 문제가 발생하나요?</td>
             <td>소프트웨어엔지니어링</td>
         </tr>
@@ -383,6 +383,23 @@ ___
         <tr>
             <td>역정규화를 하는 이유는 무엇인가?</td>
             <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.07.02</td>
+            <td>huffman encoding에 대해 설명하라</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>멀티스레딩환경에서 동기화문제를 해결하는 방법에대해 설명하라 (syncronized, atomic, volatile)</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>객체지향과 절차지향 차이 설명해주세요</td>
+            <td>소프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>iocp</td>
+            <td>네트워크</td>
         </tr>
     </tbody>
 </table>
