@@ -385,7 +385,7 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.07.02</td>
+            <td rowspan=4>2022.07.03</td>
             <td>huffman encoding에 대해 설명하라</td>
             <td>알고리즘</td>
         </tr>
@@ -399,6 +399,23 @@ ___
         </tr>
         <tr>
             <td>iocp</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.07.10</td>
+            <td>가상메모리란?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>view관련</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>벨만포드 알고리즘과 다익스트라 알고리즘의 차이점?</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>java의 접근 제어자의 종류와 특징 설명해주세요</td>
             <td>네트워크</td>
         </tr>
     </tbody>
