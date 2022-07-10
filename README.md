@@ -21,8 +21,8 @@ ___
 |링크|비고|
 |--|--|
 |[갓등님 블로그](https://garden1500.tistory.com/11)|여기서 2,3개씩 진행|
-|[cs면접 질문정리](https://github.com/devham76/tech-interview-study)|그다음 2,3개 진행|
-|[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야(코틀린-안드로이드 포함) 및 인성면접 질문도 정리가 되어있다.|
+|[cs면접 질문정리](https://github.com/devham76/tech-interview-study)|그다음 4개씩 진행|
+|[기술면접 개념정리](https://github.com/WeareSoft/tech-interview)|다음 진행, 내용-설명은 더많음|
 |[간단한 질문정리](https://velog.io/@xoqja055/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%EB%A5%BC-%ED%95%B4%EB%B3%B4%EC%9E%90-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)|매우 많은 질문과 간단하게 답변이 정리되어있다.|
 
 
@@ -30,7 +30,7 @@ ___
 |링크|비고|
 |--|--|
 |[gyoogle님 블로그](https://gyoogle.dev/blog/)|매우 좋은 사이트 1순위|
-|[기술면접 개념정리](https://github.com/WeareSoft/tech-interview)|cs정리 2순위, 내용-설명은 더많음|
+|[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야(코틀린-안드로이드 포함) 및 인성면접 질문도 정리가 되어있다.|
 |[백엔드 질문정리](https://github.com/ksundong/backend-interview-question)|백엔드 관련 질문 정리|
 
 
@@ -417,6 +417,23 @@ ___
         <tr>
             <td>java의 접근 제어자의 종류와 특징 설명해주세요</td>
             <td>자바</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.07.16</td>
+            <td>MVP패턴, MVVM패턴이란?</td>
+            <td>소프트웨어 엔지니어링</td>
+        </tr>
+        <tr>
+            <td>http keep alive / tcp keep alive</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>Deadlock이란?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>데이터베이스 풀</td>
+            <td>데이터베이스</td>
         </tr>
     </tbody>
 </table>
