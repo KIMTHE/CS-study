@@ -419,9 +419,9 @@ ___
             <td>자바</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.07.16</td>
+            <td rowspan=4>2022.07.17</td>
             <td>MVP패턴, MVVM패턴이란?</td>
-            <td>소프트웨어 엔지니어링</td>
+            <td>소프트웨어엔지니어링</td>
         </tr>
         <tr>
             <td>http keep alive / tcp keep alive</td>
@@ -434,6 +434,23 @@ ___
         <tr>
             <td>데이터베이스 풀</td>
             <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.07.24</td>
+            <td>MST 알고리즘(Spanning Tree란?)</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>non-static 멤버와 static멤버의 차이 설명해주세요</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>TDD란?</td>
+            <td>소프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>ssl</td>
+            <td>네트워크</td>
         </tr>
     </tbody>
 </table>
