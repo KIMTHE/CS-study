@@ -132,7 +132,7 @@ ___
 
 </details>
 <details>
-<summary>2022 1학기~여 기록</summary>
+<summary>2022 1학기~여름방학 기록</summary>
 <table>
     <thead>
         <tr>
