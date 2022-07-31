@@ -132,7 +132,7 @@ ___
 
 </details>
 <details>
-<summary>2022 1학기 기록</summary>
+<summary>2022 1학기~여 기록</summary>
 <table>
     <thead>
         <tr>
@@ -436,7 +436,7 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.07.24</td>
+            <td rowspan=4>2022.07.31</td>
             <td>MST 알고리즘(Spanning Tree란?)</td>
             <td>알고리즘</td>
         </tr>
@@ -451,6 +451,23 @@ ___
         <tr>
             <td>ssl</td>
             <td>네트워크</td>
+        </tr>
+        <tr>
+            <td rowspan=4>2022.08.06</td>
+            <td>프로세스의 메모리구조?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>정규화(1차 2차 3차 BCNF)</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>우선순위 큐의 구조 설명</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>final 키워드 (final/finally/finalize) 설명해주세요</td>
+            <td>자바</td>
         </tr>
     </tbody>
 </table>
