@@ -486,6 +486,23 @@ ___
             <td>트랜잭션(Transaction) 이란</td>
             <td>데이터베이스</td>
         </tr>
+        <tr>
+            <td rowspan=4>2022.08.20</td>
+            <td>heap에서 delete 과정을 그려라</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>인터페이스와 추상 클래스의 차이(Interface vs Abstract Class) 설명해주세요</td>
+            <td>자바</td>
+        </tr>
+        <tr>
+            <td>Observer 패턴은?</td>
+            <td>소프트웨어엔지니어링</td>
+        </tr>
+        <tr>
+            <td>리피터, 허브, 브릿지, 라우터와 L2, L3, L4, L7 스위치 차이점</td>
+            <td>네트워크</td>
+        </tr>
     </tbody>
 </table>
 </details>
