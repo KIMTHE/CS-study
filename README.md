@@ -487,7 +487,7 @@ ___
             <td>데이터베이스</td>
         </tr>
         <tr>
-            <td rowspan=4>2022.08.20</td>
+            <td rowspan=4>2022.08.21</td>
             <td>heap에서 delete 과정을 그려라</td>
             <td>알고리즘</td>
         </tr>
@@ -518,7 +518,7 @@ ___
         </tr>
         <tr>
             <td>set, list, map의 차이와 각각의 인터페이스 구현체의 종류를 설명해주세요</td>
-            <td>네트워크</td>
+            <td>자바</td>
         </tr>
     </tbody>
 </table>
