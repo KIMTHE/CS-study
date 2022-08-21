@@ -503,6 +503,23 @@ ___
             <td>리피터, 허브, 브릿지, 라우터와 L2, L3, L4, L7 스위치 차이점</td>
             <td>네트워크</td>
         </tr>
+        <tr>
+            <td rowspan=4>2022.08.27</td>
+            <td>프로세스간 통신하는 방법은?</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>트랜잭션 격리 수준(Transaction Isolation Level)</td>
+            <td>데이터베이스</td>
+        </tr>
+        <tr>
+            <td>이진트리, 이진 검색트리, 힙이 각각 무엇인지 설명해주세요</td>
+            <td>알고리즘</td>
+        </tr>
+        <tr>
+            <td>set, list, map의 차이와 각각의 인터페이스 구현체의 종류를 설명해주세요</td>
+            <td>네트워크</td>
+        </tr>
     </tbody>
 </table>
 </details>
