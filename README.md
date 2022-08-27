@@ -524,4 +524,36 @@ ___
 </table>
 </details>
 
+<details>
+<summary>2022 2학기</summary>
+<table>
+    <thead>
+        <tr>
+            <th>날짜</th>
+            <th>주제</th>
+            <th>분야</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>2022.09.03</td>
+            <td>Java에서 팩토리 메서드 패턴을 사용하는 이유는?</td>
+            <td>소프트웨어 엔지니어링</td>
+        </tr>
+        <tr>
+            <td>HTTP 자세히 설명해주세요</td>
+            <td>네트워크</td>
+        </tr>
+        <tr>
+            <td>Thread 가 3개 생성 되었을 때 t1, t2, t3의 순서가 보장 되는 코드를 짜 보세요.</td>
+            <td>운영체제</td>
+        </tr>
+        <tr>
+            <td>Join</td>
+            <td>데이터베이스</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
  
