@@ -520,21 +520,6 @@ ___
             <td>set, list, map의 차이와 각각의 인터페이스 구현체의 종류를 설명해주세요</td>
             <td>자바</td>
         </tr>
-    </tbody>
-</table>
-</details>
-
-<details>
-<summary>2022 2학기</summary>
-<table>
-    <thead>
-        <tr>
-            <th>날짜</th>
-            <th>주제</th>
-            <th>분야</th>
-        </tr>
-    </thead>
-    <tbody>
         <tr>
             <td rowspan=4>2022.09.03</td>
             <td>Java에서 팩토리 메서드 패턴을 사용하는 이유는?</td>
@@ -551,6 +536,38 @@ ___
         <tr>
             <td>Join</td>
             <td>데이터베이스</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+
+<details>
+<summary>2022 2학기</summary>
+<table>
+    <thead>
+        <tr>
+            <th>날짜</th>
+            <th>주제</th>
+            <th>분야</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>2022.09.10</td>
+            <td>Array</td>
+            <td>Data Structure</td>
+        </tr>
+        <tr>
+            <td>OSI 7계층</td>
+            <td>Network</td>
+        </tr>
+        <tr>
+            <td>프로세스와 스레드의 차이(Process vs Thread)</td>
+            <td>OS</td>
+        </tr>
+        <tr>
+            <td>SQL injection</td>
+            <td>DB</td>
         </tr>
     </tbody>
 </table>
