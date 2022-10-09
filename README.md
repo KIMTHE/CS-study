@@ -587,7 +587,7 @@ ___
             <td>ETC</td>
         </tr>
         <tr>
-            <td rowspan=5>2022.10.02</td>
+            <td rowspan=5>2022.10.09</td>
             <td>LinkedList</td>
             <td>Data Structure</td>
         </tr>
@@ -606,6 +606,27 @@ ___
         <tr>
             <td>Singleton 패턴</td>
             <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td rowspan=5>2022.10.15</td>
+            <td>DFS와 BFS의 차이</td>
+            <td>Algorithm</td>
+        </tr>
+        <tr>
+            <td>Java SE와 Java EE 애플리케이션 차이</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>웹 브라우저에서 서버로 어떤 페이지를 요청하면 일어나는 일련의 과정을 설명</td>
+            <td>ETC</td>
+        </tr>
+        <tr>
+            <td>HashTable</td>
+            <td>Data Structure</td>
+        </tr>
+        <tr>
+            <td>TCP와 UDP</td>
+            <td>Network</td>
         </tr>
     </tbody>
 </table>
