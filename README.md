@@ -628,6 +628,27 @@ ___
             <td>TCP와 UDP</td>
             <td>Network</td>
         </tr>
+        <tr>
+            <td rowspan=5>2022.10.22</td>
+            <td>Thread-safe</td>
+            <td>Operating System</td>
+        </tr>
+        <tr>
+            <td>Statement와 PrepareStatement</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td>Strategy 패턴</td>
+            <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td>Fibonacci에서의 세 가지(Recursion, Dynamic Programming, 반복) 방식에 대한 시간복잡도와 공간복잡도 차이</td>
+            <td>Algorithm</td>
+        </tr>
+        <tr>
+            <td>java와 c/c++의 차이점</td>
+            <td>Java</td>
+        </tr>
     </tbody>
 </table>
 </details>
