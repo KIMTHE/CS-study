@@ -1,0 +1,2 @@
+
+- [스코프 함수들](https://velog.io/@haero_kim/%EC%96%B8%EC%A0%9C-%EB%AD%98-%EC%8D%A8%EC%95%BC%EB%8F%BC-%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-%EC%8A%A4%EC%BD%94%ED%94%84-%ED%95%A8%EC%88%98%EB%93%A4-%ED%95%9C-%EB%B0%A9-%EC%A0%95%EB%A6%AC)
