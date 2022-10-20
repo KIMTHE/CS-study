@@ -1,0 +1,1 @@
+- [C_A google docs](https://developer.android.com/topic/architecture#recommended-app-arch)

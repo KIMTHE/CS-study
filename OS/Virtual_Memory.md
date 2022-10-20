@@ -5,6 +5,8 @@
 
 - 스택, 힙, 데이터, 코드 영역
 
+- [ref](https://goodgid.github.io/Memory-Structure/)
+
 
 ## 내부단편화
 
