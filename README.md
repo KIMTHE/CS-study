@@ -649,6 +649,27 @@ ___
             <td>java와 c/c++의 차이점</td>
             <td>Java</td>
         </tr>
+        <tr>
+            <td rowspan=5>2022.10.30</td>
+            <td>대칭키와 비대칭키 차이</td>
+            <td>Security</td>
+        </tr>
+        <tr>
+            <td>컴파일러와 인터프리터</td>
+            <td>ETC</td>
+        </tr>
+        <tr>
+            <td>Stack</td>
+            <td>Data Structure</td>
+        </tr>
+        <tr>
+            <td>TCP와 UDP의 헤더 분석</td>
+            <td>Network</td>
+        </tr>
+        <tr>
+            <td>동기화 객체의 종류</td>
+            <td>Operating System</td>
+        </tr>
     </tbody>
 </table>
 </details>
