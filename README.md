@@ -670,6 +670,27 @@ ___
             <td>동기화 객체의 종류</td>
             <td>Operating System</td>
         </tr>
+        <tr>
+            <td rowspan=5>2022.11.05</td>
+            <td>RDBMS와 NoSQL</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td>Template Method 패턴</td>
+            <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td>정렬 알고리즘의 종류와 개념</td>
+            <td>Algorithm</td>
+        </tr>
+        <tr>
+            <td>java 언어의 장단점</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>패스워드 암호화 방법</td>
+            <td>Security</td>
+        </tr>
     </tbody>
 </table>
 </details>
