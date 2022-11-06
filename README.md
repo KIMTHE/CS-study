@@ -671,7 +671,7 @@ ___
             <td>Operating System</td>
         </tr>
         <tr>
-            <td rowspan=5>2022.11.05</td>
+            <td rowspan=5>2022.11.06</td>
             <td>RDBMS와 NoSQL</td>
             <td>Database</td>
         </tr>
@@ -690,6 +690,27 @@ ___
         <tr>
             <td>패스워드 암호화 방법</td>
             <td>Security</td>
+        </tr>
+        <tr>
+            <td rowspan=5>2022.11.12</td>
+            <td>분산락</td>
+            <td>ETC</td>
+        </tr>
+        <tr>
+            <td>Queue</td>
+            <td>Data Structure</td>
+        </tr>
+        <tr>
+            <td>TCP의 3-way-handshake와 4-way-handshake</td>
+            <td>Network</td>
+        </tr>
+        <tr>
+            <td>뮤텍스와 세마포어의 차이</td>
+            <td>Operating System</td>
+        </tr>
+        <tr>
+            <td>효과적인 쿼리 저장</td>
+            <td>Database</td>
         </tr>
     </tbody>
 </table>

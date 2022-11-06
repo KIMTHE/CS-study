@@ -6,6 +6,8 @@
 
 - [String, StringBuffer, StringBuilder](https://goodgid.github.io/Java-String-Set/)
 
+- [lazy vs lateinit](https://holika.tistory.com/38)
+
 
 ## override
 
