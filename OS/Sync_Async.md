@@ -18,6 +18,6 @@
 
 ### 스핀락
 
-- [ref](https://goodgid.github.io/Spin-Lock/)
+- [?ref](https://goodgid.github.io/Spin-Lock/)
 
 ### 어토믹
