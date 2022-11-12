@@ -712,6 +712,27 @@ ___
             <td>효과적인 쿼리 저장</td>
             <td>Database</td>
         </tr>
+        <tr>
+            <td rowspan=5>2022.11.20</td>
+            <td>Factory Method 패턴</td>
+            <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td>Greedy 알고리즘</td>
+            <td>Algorithm</td>
+        </tr>
+        <tr>
+            <td>java의 접근 제어자의 종류와 특징</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <td>SQL Injection 공격</td>
+            <td>Security</td>
+        </tr>
+        <tr>
+            <td>프레임워크와 라이브러리의 차이</td>
+            <td>ETC</td>
+        </tr>
     </tbody>
 </table>
 </details>

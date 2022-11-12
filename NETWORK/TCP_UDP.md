@@ -16,6 +16,6 @@
 
 ## 3-way-handshaking
 
-- [3-way-handshake, 4-way-handshake](https://goodgid.github.io/TCP-IP-3Way-4Way/)
+- [3-way-handshake, 4-way-handshake / 관련 질문](https://github.com/WeareSoft/tech-interview/blob/master/contents/network.md#tcp%EC%9D%98-3-way-handshake%EC%99%80-4-way-handshake)
 
 

@@ -1,4 +1,5 @@
 
+- [효과적인 쿼리 사용 방식들](https://theheydaze.tistory.com/591)
 
 
 ## join
