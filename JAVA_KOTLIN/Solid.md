@@ -4,3 +4,5 @@
 
 
 ## solid
+
+- [SOLID 원칙](https://velog.io/@haero_kim/SOLID-%EC%9B%90%EC%B9%99-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%8B%A4)

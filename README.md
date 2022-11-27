@@ -713,7 +713,7 @@ ___
             <td>Database</td>
         </tr>
         <tr>
-            <td rowspan=5>2022.11.20</td>
+            <td rowspan=5>2022.11.27</td>
             <td>Factory Method 패턴</td>
             <td>Design Pattern</td>
         </tr>
@@ -732,6 +732,27 @@ ___
         <tr>
             <td>프레임워크와 라이브러리의 차이</td>
             <td>ETC</td>
+        </tr>
+        <tr>
+            <td rowspan=5>2022.12.03</td>
+            <td>Graph</td>
+            <td>Design Pattern</td>
+        </tr>
+        <tr>
+            <td>HTTP와 HTTPS</td>
+            <td>Network</td>
+        </tr>
+        <tr>
+            <td>스케줄러</td>
+            <td>Operating System</td>
+        </tr>
+        <tr>
+            <td>옵티마이저(Optimizer)란</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td>MVC1 패턴과 MVC2 패턴</td>
+            <td>Design Pattern</td>
         </tr>
     </tbody>
 </table>
