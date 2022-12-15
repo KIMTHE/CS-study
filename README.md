@@ -29,8 +29,9 @@ ___
 #### CS 정리 참고
 |링크|비고|
 |--|--|
-|[gyoogle님 블로그](https://gyoogle.dev/blog/)|매우 좋은 사이트 1순위|
-|[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야(코틀린-안드로이드 포함) 및 인성면접 질문도 정리가 되어있다.|
+|[gyoogle님 블로그](https://gyoogle.dev/blog/)|간단한 답변이 깔끔하게 정리됨|
+|[보초님 레포](https://github.com/VSFe/Tech-Interview)|꼬리질문들이 자세하게 정리됨|
+|[면접 질문 총모음집](https://github.com/4z7l/tech_interview.zip)|각 분야(코틀린-안드로이드 포함) 및 인성면접 질문도 정리됨|
 |[백엔드 질문정리](https://github.com/backtony/Backend_Interview_for_Beginner)|백엔드 관련 질문 정리|
 
 
