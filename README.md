@@ -758,5 +758,30 @@ ___
     </tbody>
 </table>
 </details>
+<details>
+<summary>2023 상반기</summary>
 
+<table>
+    <thead>
+        <tr>
+            <th>날짜</th>
+            <th>KIMTHE's 주제</th>
+            <th>simgyuryeol's 주제</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2023.01.09</td>
+            <td>객체지향 프로그래밍의 특징, SOLID</td>
+            <td>시간복잡도, 공간복잡도</td>
+        </tr>
+        <tr>
+            <td>2023.01.11</td>
+            <td>Garbage collection 작동 방식</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
  
