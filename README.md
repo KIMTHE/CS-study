@@ -776,9 +776,14 @@ ___
             <td>시간복잡도, 공간복잡도</td>
         </tr>
         <tr>
-            <td>2023.01.11</td>
+            <td>2023.01.12</td>
             <td>Garbage collection 작동 방식</td>
-            <td></td>
+            <td>쿠키와 세션</td>
+        </tr>
+        <tr>
+            <td>2023.01.15</td>
+            <td>싱글턴 패턴</td>
+            <td>시스템 콜</td>
         </tr>
     </tbody>
 </table>

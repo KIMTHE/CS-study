@@ -16,6 +16,7 @@
 
 ## HTTP 버전
 
+ - [stateless, connectionless]()
 
 ### HTTP 1.1
 

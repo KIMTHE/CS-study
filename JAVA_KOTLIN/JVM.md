@@ -9,9 +9,9 @@
 
 ## Garbage Collection
 
-- [GC 기초](https://velog.io/@haero_kim/Garbage-Collection-%EA%B8%B0%EC%B4%88-%EA%B3%B5%EB%9E%B5%ED%95%98%EA%B8%B0)
+- [GC 기초, minor GC 위주](https://velog.io/@haero_kim/Garbage-Collection-%EA%B8%B0%EC%B4%88-%EA%B3%B5%EB%9E%B5%ED%95%98%EA%B8%B0)
 
-- [안드로이드의 Major GC - CMS]()
+- [major GC - 4가지 알고리즘]()
 
 - [?ref](https://goodgid.github.io/Java-Garbage-Collection-(1)/)
 
