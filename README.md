@@ -798,7 +798,7 @@ ___
         <tr>
             <td>2023.01.25</td>
             <td>자료구조의 종류</td>
-            <td></td>
+            <td>JVM</td>
         </tr>
     </tbody>
 </table>
