@@ -10,6 +10,10 @@
 
 - [싱글턴 패턴 참고](https://velog.io/@haero_kim/%ED%98%B9%EC%8B%9C-%EC%8B%B1%EA%B8%80%ED%86%A4%EC%9D%B4%EC%84%B8%EC%9A%94-%EC%A0%80%EB%8A%94-%EB%B2%99%EA%B8%80%ED%86%A4%EC%9D%B4%EC%97%90%EC%9A%94-%E3%85%8B%E3%85%8B%E3%85%8B)
 
+- [thread-safe 방법들](https://seunghyunson.tistory.com/28)
+
+- Enum 방식은 Android 같이 Context 의존성이 있는 환경일 경우, Singleton의 초기화 과정에 Context라는 의존성이 끼어들 가능성이 있다.
+
 - 싱글턴에 비해 static은 할 수 없는 일
 
         1. 다형성을 사용할 수 없다.
