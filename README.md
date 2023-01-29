@@ -786,19 +786,19 @@ ___
             <td>시스템 콜</td>
         </tr>
         <tr>
-            <td>2023.01.15</td>
-            <td>옵저버 패턴</td>
-            <td>시스템 콜</td>
-        </tr>
-        <tr>
             <td>2023.01.19</td>
             <td>싱글턴 패턴</td>
             <td>데이터베이스의 key 종류</td>
         </tr>
         <tr>
-            <td>2023.01.25</td>
-            <td>자료구조의 종류</td>
-            <td>JVM</td>
+            <td>2023.01.29</td>
+            <td>해시 자료구조</td>
+            <td>람다함수</td>
+        </tr>
+        <tr>
+            <td>2023.02.01</td>
+            <td>MVC, MVP, MVVM 디자인 패턴 비교</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
