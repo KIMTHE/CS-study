@@ -796,9 +796,14 @@ ___
             <td>람다함수</td>
         </tr>
         <tr>
-            <td>2023.02.01</td>
+            <td>2023.02.03</td>
             <td>MVC, MVP, MVVM 디자인 패턴 비교</td>
-            <td></td>
+            <td>DB 트랜잭션</td>
+        </tr>
+        <tr>
+            <td>2023.02.05</td>
+            <td>TCP vs UDP</td>
+            <td>팩토리 패턴</td>
         </tr>
     </tbody>
 </table>

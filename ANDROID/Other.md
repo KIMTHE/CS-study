@@ -1,13 +1,13 @@
 
-- [android의 컴파일 방식/ Dalvik VM, ART](https://medium.com/@logishudson0218/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EB%B0%A9%EC%8B%9D-dalvikvm-art-b5d64350489f)
+## [android의 컴파일 방식/ Dalvik VM, ART](https://medium.com/@logishudson0218/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-%EB%B0%A9%EC%8B%9D-dalvikvm-art-b5d64350489f)
 
 ## 안드로이드 4대 컴포넌트
 
-- [activity 요약](https://velog.io/@haero_kim/Android-%EC%A3%BC%EC%9A%94-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Activity-%ED%8E%B8)
-
-## Activity 생명주기
+### [activity 요약](https://velog.io/@haero_kim/Android-%EC%A3%BC%EC%9A%94-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Activity-%ED%8E%B8)
 
 - [Activity Lifecycle](https://velog.io/@haero_kim/Activity-Lifecycle-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
+
+
 
 ## Activity/Fragment 끼리의 데이터 공유 및 통신방법
 
