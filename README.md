@@ -801,9 +801,19 @@ ___
             <td>DB 트랜잭션</td>
         </tr>
         <tr>
-            <td>2023.02.05</td>
+            <td>2023.02.06</td>
+            <td>TCP/IP 4계층</td>
+            <td>링크드리스트</td>
+        </tr>
+        <tr>
+            <td>2023.02.09</td>
             <td>TCP vs UDP</td>
-            <td>팩토리 패턴</td>
+            <td>stack, queue</td>
+        </tr>
+        <tr>
+            <td>2023.02.12</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
