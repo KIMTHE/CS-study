@@ -806,14 +806,14 @@ ___
             <td>링크드리스트</td>
         </tr>
         <tr>
-            <td>2023.02.09</td>
+            <td>2023.02.10</td>
             <td>TCP vs UDP</td>
             <td>stack, queue</td>
         </tr>
         <tr>
-            <td>2023.02.12</td>
-            <td></td>
-            <td></td>
+            <td>2023.02.11</td>
+            <td>정렬 알고리즘</td>
+            <td>트리,이진트리,그래프</td>
         </tr>
     </tbody>
 </table>

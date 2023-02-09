@@ -22,12 +22,16 @@
 
     - TCP가 신뢰성을 보장하는 방법에 대해 설명해 주세요.
 
+    : 위의 링크 참고
+
     - TCP의 혼잡 제어 처리 방법에 대해 설명해 주세요.
 
+    : 위의 링크 참고
 
-## 3-way-handshaking
 
-- [3-way-handshake, 4-way-handshake / 관련 질문](https://github.com/WeareSoft/tech-interview/blob/master/contents/network.md#tcp%EC%9D%98-3-way-handshake%EC%99%80-4-way-handshake)
+## 3-way-handshake, 4-way-handshake
+
+- [3-way-handshake, 4-way-handshake](https://goodgid.github.io/TCP-IP-3Way-4Way/#tcp-3-way-handshake)
 
 ## 패킷의 구조
 
