@@ -17,8 +17,6 @@
 
 - [GC 총 정리](https://s2choco.tistory.com/14)
 
-
-
         - Young 영역에서 Old 영역으로 객체가 이동하는 것을 Promotion 되었다고 표현한다.
 
         - Old 영역에서도 GC에서 오래 살아남은 객체들은 Permanent Generation으로 이동하게 되는데, 이 영역에서도 Major GC로 unreachable한 객체를 회수한다. Major GC이기 때문에 STW(stop the world)가 발생한다.

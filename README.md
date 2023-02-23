@@ -813,7 +813,22 @@ ___
         <tr>
             <td>2023.02.16</td>
             <td>정렬 알고리즘</td>
-            <td>트리,이진트리,그래프</td>
+            <td>트리,이진트리</td>
+        </tr>
+        <tr>
+            <td>2023.02.23</td>
+            <td>PCB, context switching</td>
+            <td>그래프</td>
+        </tr>
+        <tr>
+            <td>2023.02.23</td>
+            <td>PCB, context switching</td>
+            <td>그래프</td>
+        </tr>
+        <tr>
+            <td>2023.02.25</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
