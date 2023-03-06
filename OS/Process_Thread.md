@@ -18,15 +18,27 @@
 
 ## PCB
 
-- [?인터럽트](https://goodgid.github.io/OS-The-Principle-Of-Interrupt/)
+- [인터럽트](https://goodgid.github.io/OS-The-Principle-Of-Interrupt/)
 
     - 인터럽트는 어떻게 처리하나요?
 
+    : 위의 링크 참고.
+    
+     매 instruction을 실행한 후 CPU는 interrupt의 발생을 확인함.
+
+     인터럽트가 발생하면, 프로세스의 상태를 PCB에 저장하고, 인터럽트 처리 루틴으로 이동한다. 
+     
+     인터럽트 처리 루틴이 끝나면, 다시 원래 수행중이던 프로세스로 돌아간다.
+
     - Polling 방식에 대해 설명해 주세요.
+
+    : 
 
     - HW / SW 인터럽트에 대해 설명해 주세요.
 
-    : HW - 각 하드웨어 장치에 대한 I/O 큐에 줄서게 된다. I/O가 완료되면, 디스크 컨트롤러가 인터럽트가 발생시켜 해당 프로세스는 CPU 준비큐에 줄서게 된다. 
+    : HW - 각 하드웨어 장치에 대한 I/O 큐에 줄서게 된다. I/O가 완료되면, 디스크 컨트롤러가 인터럽트가 발생시켜 해당 프로세스는 CPU 준비큐에 줄서게 된다. (ex. 키보드 입력)
+
+     SW - 프로그램 내부에서 인터럽트를 발생시키는 방식. (ex. 시스템 콜)
 
 
 - [PCB / context switching](https://velog.io/@haero_kim/PCB-%EC%99%80-Context-Switching-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
