@@ -2,6 +2,9 @@
 
 ![jetpack library](https://user-images.githubusercontent.com/86638578/184792585-a238e4e4-d1a0-44d7-8272-39896310c2c2.png)
 
+    - 안드로이드 SDK와 jetpack의 어떤점이 연관되어 있는가
+
+
 
 ## AAC(Android Architecture Components)
 

@@ -4,6 +4,12 @@
 
 - [쿠키와 세션](https://goodgid.github.io/Cookie-vs-Session/)
 
+- [request, response 메시지 구조]()
+
+    - 메시지 바디에는 json 말고 다른 데이터가 들어가는 경우가 있나?
+
+    - get 메소드 요청에는 바디를 담을 수 있는가?
+
 ## HTTP method
 
 - [post vs put vs patch](https://goodgid.github.io/HTTP-Method-Post-vs-Put-vs-Patch/)

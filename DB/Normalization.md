@@ -11,6 +11,8 @@
 
 - [제 3,BCNF,4,5](https://goodgid.github.io/DB-Normalization(2)/)
 
+    - 정규화의 단점은?
+
 
 
 ## 비정규화(역정규화)

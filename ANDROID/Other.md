@@ -7,6 +7,10 @@
 
 - [Activity Lifecycle](https://velog.io/@haero_kim/Activity-Lifecycle-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0)
 
+    - activity가 create되면 메모리내에서 어떤식으로 과정?
+
+    - intent가 메모리에서 어떻게 될까?
+
 
 
 ## Activity/Fragment 끼리의 데이터 공유 및 통신방법

@@ -1,7 +1,15 @@
-# Java Virtual Machine
+# [?Java Virtual Machine](https://goodgid.github.io/Java-JVM/)
 
+    - 안드로이드에서 JVM 원리에 대해서 설명
 
-- [?ref](https://goodgid.github.io/Java-JVM/)
+    - jvm 외에도 여러 플랫폼에서 호환되는게 뭐가 있는지 말해주세요
+## [메모리구조]()
+
+    - 메모리 구조에서 스택과 힙의 차이
+
+    - 힙 영역의 데이터는 어떻게 삭제가 될까?
+
+    : GC가 힙 영역의 데이터를 삭제한다.
 
 # JAVA파일의 컴파일 과정
 
@@ -12,6 +20,8 @@
 - 안드로이드 컴파일에서 Dalvik은 GC 방법으로 CMS 알고리즘을 사용하고, ART는 Customed CMS 알고리즘을 사용한다.
 
 - [GC 기초, minor GC 위주](https://velog.io/@haero_kim/Garbage-Collection-%EA%B8%B0%EC%B4%88-%EA%B3%B5%EB%9E%B5%ED%95%98%EA%B8%B0)
+
+    - GC가 어떻게 객체가 더이상 사용되지 않는지 알수있는가?
 
 - [major GC: 4가지 알고리즘](https://goodgid.github.io/Java-Garbage-Collection-(2)/)
 
@@ -26,3 +36,5 @@
             - old 객체에서 young 객체로의 참조 정보를 담고 있어 Minor GC 실행 시 메모리 회수 대상인지 아닌지를 빠르게 판단한다.
 
             - 약간의 overhead가 발생하지만 전반적인 GC시간을 줄여준다.
+
+## 프로그램 실행의 일련과정
