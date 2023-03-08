@@ -1,8 +1,6 @@
-## 메모리 구조
+## [메모리 구조]((https://goodgid.github.io/Memory-Structure/))
 
 - 스택, 힙, 데이터, 코드 영역
-
-- [ref](https://goodgid.github.io/Memory-Structure/)
 
     - 초기화 하지 않은 변수들은 어디에 저장될까요?
 

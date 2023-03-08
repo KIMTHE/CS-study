@@ -832,8 +832,13 @@ ___
         </tr>
         <tr>
             <td>2023.03.08</td>
+            <td>어댑터패턴</td>
+            <td>인터럽트 우선순위 / 스프링 DI,AOP,IOC</td>
+        </tr>
+        <tr>
+            <td>2023.03.11</td>
             <td></td>
-            <td>인터럽트</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
