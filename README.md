@@ -821,11 +821,6 @@ ___
             <td>그래프</td>
         </tr>
         <tr>
-            <td>2023.02.23</td>
-            <td>PCB, context switching</td>
-            <td>그래프</td>
-        </tr>
-        <tr>
             <td>2023.03.06</td>
             <td>프로세스 동기화, SYNC/BLOCKING 비교</td>
             <td>인터럽트</td>
@@ -836,7 +831,12 @@ ___
             <td>인터럽트 우선순위 / 스프링 DI,AOP,IOC</td>
         </tr>
         <tr>
-            <td>2023.03.11</td>
+            <td>2023.03.20</td>
+            <td>안드로이드 4대 구성요소</td>
+            <td>HTTP 상태코드, 메소드</td>
+        </tr>
+        <tr>
+            <td>2023.03.22</td>
             <td></td>
             <td></td>
         </tr>

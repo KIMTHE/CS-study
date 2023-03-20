@@ -11,6 +11,15 @@
 
     - intent가 메모리에서 어떻게 될까?
 
+### [service 요약](https://velog.io/@haero_kim/Android-%EC%A3%BC%EC%9A%94-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Service)
+
+
+### [Broadcast Receiver 요약](https://velog.io/@haero_kim/Android-%EC%A3%BC%EC%9A%94-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Broadcast-Receiver)
+
+
+### [Content Provider 요약](https://velog.io/@haero_kim/Android-%EC%A3%BC%EC%9A%94-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-Content-Provider)
+
+
 
 
 ## Activity/Fragment 끼리의 데이터 공유 및 통신방법
